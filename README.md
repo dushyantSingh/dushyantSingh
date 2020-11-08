@@ -11,3 +11,5 @@ I am a Senior Mobile Engineer working in Singapore.
 - ⚡ Fun fact: If not working, then I am either taking photos or traveling or both.
 
 [<img src="https://github.com/dushyantSingh/dushyantSingh/blob/master/linkedin.png" height="40em" align="center"/>](https://www.linkedin.com/in/dushyant-singh-61b40518/)
+
+[<img src="https://github.com/dushyantSingh/dushyantSingh/blob/master/instagram.svg" height="40em" align="center"/>](https://www.instagram.com/dushyantsingh1097/)
