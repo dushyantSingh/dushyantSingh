@@ -4,10 +4,10 @@
 I am a Senior Mobile Engineer working in Singapore.
 
 - 🔭 I’m currently working at Palo IT, Singapore.
-- 💪 I'm experienced with iOS Development with Swift and Objective C.
+- 💪 I'm experienced in iOS Development with Swift and Objective C.
 - 🌱 I’m currently learning `TypeScript`, `Golang` and `Flutter`.
 - 👯 I’m looking to collaborate on `Flutter` and iOS projects.
-- 💬 Ask me about anything related to iOS
+- 💬 Ask me about anything related to Extreme programming (XP)
 - ⚡ Fun fact: If not working, then I am either taking photos or traveling or both.
 
 **Social Network**
