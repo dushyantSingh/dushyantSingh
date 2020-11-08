@@ -9,3 +9,5 @@ I am a Senior Mobile Engineer working in Singapore.
 - 👯 I’m looking to collaborate on `Flutter` and iOS projects.
 - 💬 Ask me about anything related to iOS
 - ⚡ Fun fact: If not working, then I am either taking photos or traveling or both.
+
+![Linkedin]
