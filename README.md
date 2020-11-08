@@ -10,4 +10,4 @@ I am a Senior Mobile Engineer working in Singapore.
 - 💬 Ask me about anything related to iOS
 - ⚡ Fun fact: If not working, then I am either taking photos or traveling or both.
 
-![Linkedin]
+![Linkedin](https://www.linkedin.com/in/dushyant-singh-61b40518)
