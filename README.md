@@ -1,5 +1,5 @@
-<h1> Hi there 👋   <img src="https://github.com/dushyantSingh/dushyantSingh/blob/master/dushyant.gif" width="100"> </h1>
-
+<h1> Hi there 👋   <img src="" width="100"> </h1>
+<img align='right' src="https://github.com/dushyantSingh/dushyantSingh/blob/master/dushyant.gif" width="230">
 <!--
 **dushyantSingh/dushyantSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
