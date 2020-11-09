@@ -18,3 +18,6 @@ I am a Senior Mobile Engineer working in Singapore.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dushyantSingh&repo=github-readme-stats" />
 </a>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dushyantSingh&show_icons=true)
+
