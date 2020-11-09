@@ -11,7 +11,7 @@ I am a Senior Mobile Engineer working in Singapore.
 - ⚡ Fun fact: If not working, then I am either taking photos or traveling or both.
 
 ## 
-<a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantSingh" />
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=dushyantSingh&show_icons=true" />
 </a>
