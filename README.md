@@ -15,3 +15,6 @@ I am a Senior Mobile Engineer working in Singapore.
 <em> [<img src="https://github.com/dushyantSingh/dushyantSingh/blob/master/linkedin.png" height="40em" align="center"/>](https://www.linkedin.com/in/dushyant-singh-61b40518/)      [<img src="https://github.com/dushyantSingh/dushyantSingh/blob/master/instagram.svg" height="40em" align="center"/>](https://www.instagram.com/dushyantsingh1097/) </em>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantSingh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dushyantSingh&repo=github-readme-stats" />
+</a>
