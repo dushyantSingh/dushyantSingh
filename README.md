@@ -20,5 +20,5 @@ I am a Senior Mobile Engineer working in Singapore.
                   
 **Social Network**
 
-<em> [<img src="https://github.com/dushyantSingh/dushyantSingh/blob/master/linkedin.png" height="40em" align="center"/>](https://www.linkedin.com/in/dushyant-singh-61b40518/)      [<img src="https://github.com/dushyantSingh/dushyantSingh/blob/master/instagram.svg" height="40em" align="center"/>](https://www.instagram.com/dushyantsingh1097/) </em>
+<em> [<img src="https://github.com/dushyantSingh/dushyantSingh/blob/master/linkedin.png" height="40em" align="center"/>](https://www.linkedin.com/in/dushyant-singh-61b40518/)      [<img src="https://raw.githubusercontent.com/dushyantSingh/dushyantSingh/master/instagram.svg" height="40em" align="center"/>](https://www.instagram.com/dushyantsingh1097/) </em>
 
