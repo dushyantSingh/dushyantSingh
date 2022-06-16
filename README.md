@@ -1,4 +1,4 @@
-<h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> ,  I am Dushyant Singh </h1>
+<h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> ,  I am Dushyant Singh </h1>
 <img align='right' src="https://github.com/dushyantSingh/dushyantSingh/blob/master/dushyant.gif" width="230">
 
 I am a Senior Mobile Engineer working in Singapore.
